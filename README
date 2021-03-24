@@ -1,0 +1,13 @@
+Design Pattern: MVC
+Principles Used : Serializers
+Communication mode: Json
+Communication Interface : REST API
+After going through the problem statement.
+First I thought of the project and application name as: FurnitureFactory & TableFactory respectively.
+I started planning for the database, how will the tables look like and how many tables will be required and how they will be related.
+As per problem statement, for Feet and Legs table we will have to create many to many relationship.
+While for Table and Legs tables we will have to create one to one mapping as the leg can be assigned to only one table.
+Design Pattern: MVC
+Principles Used : Serializers
+Communication mode: Json
+Communication Interface : REST API
